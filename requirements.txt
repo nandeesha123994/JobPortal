@@ -1,7 +1,0 @@
-django>=5.0
-mysqlclient
-Pillow
-django-allauth
-requests
-pyjwt
-cryptography
